@@ -1,4 +1,3 @@
-import React from 'react'
 import { StyledHeader, Nav, Logo, Image } from './styles/Header.styled'
 import { Container } from './styles/Container.styled'
 import { Button } from './styles/Button.styled'
